@@ -1,0 +1,8 @@
+# 개인정보 보호: 실제 포트폴리오와 파이프라인 산출물은 커밋하지 않음
+/PORTFOLIO.md
+/workspace/*
+!/workspace/.gitkeep
+
+# 비밀/로그
+.env
+*.log
