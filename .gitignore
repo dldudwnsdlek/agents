@@ -6,3 +6,7 @@
 # 비밀/로그
 .env
 *.log
+
+# 포트폴리오 원본 PDF(개인정보)
+Portfolio.pdf
+*.pdf
