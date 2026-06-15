@@ -1,0 +1,4 @@
+# 파이프라인 산출물이 저장되는 폴더입니다.
+# 01_collected.json, 02_evaluated.json, 03_analysis.md,
+# 04_cover_letters/, 05_decision.md 가 여기에 생성됩니다.
+# 실제 산출물은 개인정보가 포함될 수 있어 .gitignore로 제외됩니다.
