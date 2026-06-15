@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-06-15",
+  "candidate_keywords": [
+    "데이터사이언티스트",
+    "머신러닝 엔지니어",
+    "추천시스템(LightGCN/AutoInt/NCF)",
+    "금융 FDS/이상거래탐지",
+    "XAI/SHAP",
+    "앙상블 ML(CatBoost/XGBoost/LightGBM)",
+    "LLM 경량화/RAG",
+    "신입(수도권)"
+  ],
+  "filters_applied": {
+    "region": "경기/수도권 (성남 분당·판교, 서울, 인천, 경기) 만 포함. 지방/원격-only/해외 제외",
+    "freshness": "기준일 2026-06-15. 진행 중 또는 2026년 최신 공고 우선. 마감 지난·오래된 공고 제외",
+    "level": "신입 지원 가능 또는 신입 가능성 애매(경력 톤)까지 폭넓게 포함(판정은 평가자 몫)",
+    "employment_type": "정규직 우선(채용연계형 인턴 포함)"
+  },
+  "jobs": [
+    {
+      "id": "c01",
+      "company": "버즈빌(Buzzvil)",
+      "title": "[광고 추천팀] ML Engineer / 머신러닝 엔지니어 (신입 가능, 병역특례요원)",
+      "url": "https://buzzvil.career.greetinghr.com/o/112597",
+      "source": "corp",
+      "extra_urls": [
+        "https://jumpit.saramin.co.kr/position/27076",
+        "https://www.rallit.com/positions/2571/%EA%B4%91%EA%B3%A0-%EC%B6%94%EC%B2%9C%ED%8C%80-ml-engineer-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A0%EC%9E%85-%EA%B0%80%EB%8A%A5-%EB%B3%91%EC%97%AD%ED%8A%B9%EB%A1%80%EC%9A%94%EC%9B%90"
+      ],
+      "location": "서울 송파구 (석촌호수로 272, MY빌딩)",
+      "employment_type": "정규직 (병역특례요원 가능)",
+      "deadline": "채용 시 마감",
+      "requirements": [
+        "딥러닝 및 전통 머신러닝 주제에 대한 이해, 논문을 읽고 실제로 구현 가능",
+        "통계 및 확률 이론 지식",
+        "하나 이상의 프로그래밍 언어 및 SQL 능숙",
+        "TensorFlow, PyTorch, Keras 등 ML 프레임워크 사용 경험",
+        "(우대) 광고 플랫폼 이해, 관련 학위, 학회/학술지 논문 발표 경험, 오픈소스 기여"
+      ],
+      "match_reason": "광고 추천(DSP) 도메인의 ML 추천/입찰 모델 개발. 지원자의 AutoInt(CTR)·NCF·LightGCN 추천 모델링 경험과 직접 정렬되고, '논문 구현·학회 발표' 우대가 제1저자 2편·은상 이력과 부합. 명시적으로 '신입 가능'."
+    },
+    {
+      "id": "c02",
+      "company": "카카오뱅크",
+      "title": "데이터 사이언티스트 (Data Science)",
+      "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/417274",
+      "source": "corp",
+      "extra_urls": [
+        "https://job.incruit.com/jobdb_info/jobpost.asp?job=2406070000214",
+        "https://www.wanted.co.kr/wd/225725"
+      ],
+      "location": "경기 성남시 분당구 (백현동)",
+      "employment_type": "정규직 (경력 1년 미만은 채용연계형 인턴)",
+      "deadline": "채용 시 마감",
+      "requirements": [
+        "통계학·컴퓨터공학 또는 관련 분야 학사 이상",
+        "관련 경력 1년 이상 (1년 미만은 채용연계형 인턴으로 영입)",
+        "Python·SQL 등 데이터 분석/모델링 언어 능숙",
+        "머신러닝/딥러닝 및 통계 모델링 경험 (TensorFlow, PyTorch)",
+        "데이터 시각화 도구(Tableau, imply 등) 경험, 예측 모델·ML/DL 모델 개발"
+      ],
+      "match_reason": "금융 데이터로 예측·ML/DL 모델을 개발하는 핵심 직무. 지원자의 금융결제원 FDS(CatBoost F1 0.968)·앙상블 ML·Python/SQL 역량과 정렬. 신입은 채용연계형 인턴 트랙으로 지원 가능하고 근무지가 분당으로 희망지역 최적."
+    },
+    {
+      "id": "c03",
+      "company": "카카오뱅크",
+      "title": "[Data] 데이터 사이언티스트 (금융분석 / FDS·AML)",
+      "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/263889",
+      "source": "corp",
+      "extra_urls": [
+        "https://job.incruit.com/jobdb_info/jobpost.asp?job=2210050005841"
+      ],
+      "location": "경기 성남시 분당구 (백현동)",
+      "employment_type": "정규직 (채용 연계형 인턴 가능)",
+      "deadline": "채용 시 마감",
+      "requirements": [
+        "머신러닝을 이용한 이상거래 탐지(FDS) 모형 개발",
+        "FDS/AML/STR 모형 개발 및 운영",
+        "Python·SQL, ML/통계 모델링 경험",
+        "(과거 동일 직무 공고 기준 — 최신 요건은 채용페이지 재확인 필요, 미확인 항목 있음)"
+      ],
+      "match_reason": "이상거래탐지(FDS)·AML 모형 개발로, 지원자의 금융결제원 사기탐지(불균형 0.03% 해결, 파생 Feature 45개+, CatBoost F1 0.968) 프로젝트와 거의 1:1로 매칭되는 강점 직무. 분당 근무. 신입 가능 여부는 (미확인)이라 사유와 함께 포함."
+    },
+    {
+      "id": "c04",
+      "company": "랩큐(LabQ)",
+      "title": "[정규직/계약직/인턴][신입/경력] AI 개발자 / ML 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=44243934",
+      "source": "saramin",
+      "location": "서울 영등포구 (양평로21길 26, 아이에스비즈타워)",
+      "employment_type": "정규직 (수습 3개월) / 계약직 / 인턴",
+      "deadline": "(미확인)",
+      "requirements": [
+        "학력·경력 무관 (신입 포함)",
+        "AI/ML 연구개발 및 서비스 적용",
+        "주임/선임/책임 연구원 트랙",
+        "급여 면접 후 결정 (상세 자격요건은 공고 본문 재확인 필요)"
+      ],
+      "match_reason": "AI 연구개발 기업의 ML 엔지니어로 '신입 포함' 명시. PyTorch/TensorFlow·LLM·앙상블 ML 등 폭넓은 스택을 가진 지원자에게 연구개발형 신입 트랙으로 적합. 서울 수도권."
+    },
+    {
+      "id": "c05",
+      "company": "토스(비바리퍼블리카)",
+      "title": "ML Engineer (추천) / Ads ML Engineer",
+      "url": "https://toss.im/career/job-detail?job_id=4553599003",
+      "source": "corp",
+      "extra_urls": [
+        "https://toss.im/career/jobs",
+        "https://toss.im/career/event/data-2025"
+      ],
+      "location": "서울 강남구 (역삼)",
+      "employment_type": "정규직",
+      "deadline": "상시채용 (신입 집중채용 이벤트 2025-09-17~10-12는 종료; 직무 상시 모집은 진행 — 시점 미확인)",
+      "requirements": [
+        "Python 및 ML 프레임워크 능숙, 추천/랭킹 또는 광고 성과 모델 개발",
+        "추천시스템 또는 광고 ML 모델링 경험",
+        "ML 기초 지식 및 시스템 설계 역량",
+        "신입 트랙 존재(Ads ML 신입 집중채용 사례) — 현재 모집 시점/요건은 토스 채용페이지 재확인 필요"
+      ],
+      "match_reason": "추천/광고 ML 모델을 만들어 서비스 성과에 직접 임팩트를 주는 직무로, AutoInt(CTR)·NCF·LightGCN 추천 경험과 정렬. 과거 'Ads ML 신입 집중채용'을 운영한 이력이 있어 신입 지원 여지. 서울 수도권. 모집 시점은 (미확인)."
+    },
+    {
+      "id": "c06",
+      "company": "라피치(Raviche)",
+      "title": "[AI 음성기술 전문기업] STT 및 자연어 처리 엔지니어 (신입/경력)",
+      "url": "https://www.rallit.com/positions/1636/ai%EC%9D%8C%EC%84%B1%EA%B8%B0%EC%88%A0%EC%A0%84%EB%AC%B8%EA%B8%B0%EC%97%85-stt-%EB%B0%8F-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5",
+      "source": "rallit",
+      "location": "서울 강남구 (도곡로8길 6, 지호빌딩)",
+      "employment_type": "정규직 (공고상 '신입/경력')",
+      "deadline": "채용 시 마감",
+      "requirements": [
+        "자연어 처리에 대한 지식 보유",
+        "자율적·적극적으로 업무 처리 가능",
+        "(우대) 국문학 전공, Linux 기본 사용, 관련 업무 경력",
+        "신입 지원 가능(제목에 명시)"
+      ],
+      "match_reason": "STT·NLP 엔지니어로 신입 지원 가능. 지원자의 DistilBERT 하이브리드 추천·감정분류(Amazon 리뷰 791만 건)·HuggingFace Transformers·RAG 경험 등 NLP 전이역량과 부합. 서울 수도권."
+    },
+    {
+      "id": "c07",
+      "company": "마키나락스(MakinaRocks)",
+      "title": "[신입/인턴] 머신러닝 엔지니어 (LLM)",
+      "url": "https://makinarocks.career.greetinghr.com/ko/o/157208",
+      "source": "corp",
+      "location": "서울 강남구 (마키나락스 본사) (미확인 - 채용페이지 재확인 필요)",
+      "employment_type": "인턴(3개월) 후 정규직 전환 검토 / 신입",
+      "deadline": "(미확인)",
+      "requirements": [
+        "신입/인턴 대상 ML 엔지니어 (LLM)",
+        "3개월 인턴십 후 연장/정규직 전환 검토",
+        "Python·딥러닝 프레임워크, LLM 관련 개발 (상세 요건은 채용페이지 재확인 필요)"
+      ],
+      "match_reason": "산업 AI 기업의 '신입/인턴' LLM 머신러닝 엔지니어. 지원자의 EXAONE-4.0 GPTQ(W4A16) 경량화·LLM/RAG 경험과 정렬. 명시적 신입 트랙. 근무지·마감 등 일부는 봇 차단으로 (미확인)."
+    },
+    {
+      "id": "c08",
+      "company": "스캐터랩(ScatterLab)",
+      "title": "[이루다] 머신러닝 엔지니어",
+      "url": "https://www.rallit.com/positions/42/%EC%9D%B4%EB%A3%A8%EB%8B%A4-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4",
+      "source": "rallit",
+      "location": "서울 성동구 (왕십리로 125, KD타워)",
+      "employment_type": "정규직 (수습 최대 3개월)",
+      "deadline": "채용 시 마감",
+      "requirements": [
+        "Python 능숙, PyTorch/TensorFlow 기반 ML 프로젝트 개발 경험",
+        "OS·Network 중심 컴퓨터공학 기본 지식, 엄격한 테스트 코드 작성",
+        "(우대) ML 파이프라인(Airflow/Kubeflow), 저지연 ML API, 멀티노드 GPU/TPU 대형모델 학습, 논문 구현, Docker/K8s, 클라우드",
+        "신입 가능 여부 명시 없음(경력 톤) — 평가자 판정 필요"
+      ],
+      "match_reason": "대화형 AI(이루다)의 ML 엔지니어로 PyTorch/TF·논문 구현·대형모델 학습 역량을 요구 — 지원자의 모델 구현(AutoInt 커스텀 레이어)·LLM 경량화 경험과 부합. 신입 명시는 없으나 재현율 우선으로 포함, 신입 적합성은 (미확인)."
+    },
+    {
+      "id": "c09",
+      "company": "카카오페이",
+      "title": "추천시스템 엔지니어 (머신러닝 엔지니어)",
+      "url": "https://www.wanted.co.kr/wd/109815",
+      "source": "wanted",
+      "location": "경기 성남시 분당구 (판교역로 166, 카카오판교아지트)",
+      "employment_type": "정규직",
+      "deadline": "상시채용",
+      "requirements": [
+        "Python 프로그래밍 능력",
+        "TensorFlow, PyTorch 등 딥러닝 프레임워크 활용",
+        "추천/랭킹 관련 논문 구현 능력",
+        "경력 3-10년 명시 (신입 직접 지원은 비대상일 수 있음 — 평가자 판정 필요)"
+      ],
+      "match_reason": "판교 핀테크의 추천/랭킹 ML 직무로 지원자 추천시스템 강점과 정확히 일치하나, 경력 3-10년 요건이 명시됨. PORTFOLIO 제외조건(경력 필수)에 걸릴 수 있어 borderline이지만, 추천 도메인 적합성이 매우 높아 사유와 함께 포함(최종 적합 판정은 평가자)."
+    }
+  ],
+  "excluded_examples": [
+    {
+      "company": "컬리",
+      "title": "데이터 사이언티스트 (공통/검색·추천)",
+      "reason": "유관경력 8년 이상 필수(검색추천 5년+), 마감 2025-06-08 경과 → 신입 불가 + 마감",
+      "url": "https://www.rallit.com/positions/3531"
+    },
+    {
+      "company": "기아",
+      "title": "Machine Learning Engineer",
+      "reason": "AI/ML 3년 이상 경력 필수, 마감 2025-03-24 경과 → 제외",
+      "url": "https://www.rallit.com/positions/3324/machine-learning-engineer"
+    },
+    {
+      "company": "한국딥러닝",
+      "title": "AI 엔지니어 (Vision/LLM/RAG)",
+      "reason": "3년 이상 실무경력 필수, 마감 2025-09-30 경과 → 제외",
+      "url": "https://www.rallit.com/positions/3793"
+    },
+    {
+      "company": "무신사",
+      "title": "AI 네이티브 신입 개발자 공채(무신사 루키)",
+      "reason": "신입 대상이나 2026-03-30 66명 선발 완료(채용 종료) → 마감",
+      "url": "https://newsroom.musinsa.com/newsroom-menu/2026-0330"
+    },
+    {
+      "company": "넷마블",
+      "title": "2026 상반기 채용전환형 인턴십 - AI연구/데이터분석",
+      "reason": "신입 대상이나 마감 2025-12-18 경과 → 제외 (서울 구로, 수도권은 충족)",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48207653"
+    },
+    {
+      "company": "현대모비스",
+      "title": "데이터사이언스 (체험형 인턴)",
+      "reason": "모집 2025-07-28~08-11 경과, 인턴 기간(2025-10~2026-03)도 종료 임박 → 제외",
+      "url": "https://careers.mobis.com/jobs-view?seq=2834"
+    },
+    {
+      "company": "네이버파이낸셜",
+      "title": "FDS 데이터분석 담당자",
+      "reason": "경력 5년 이상, 2020~2022년 공고/마감 → 제외(도메인은 FDS로 적합)",
+      "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/271120"
+    }
+  ],
+  "collection_limitations": [
+    "WebSearch가 US 리전 기준이라 한국 채용보드의 최신 '진행중/D-day' 스냅샷이 일부 오래된 캐시로 노출됨 — 마감일 다수가 '채용 시 마감/상시채용'으로만 확인되거나 (미확인).",
+    "greetinghr.com, catch.co.kr, career.nexon.com, nice.career.greetinghr.com 등은 403/봇차단으로 본문 직접 수집 불가 — 회사명/직무/지역 등은 공식 검색 스니펫으로 교차 확인했고 일부 필드는 (미확인) 처리.",
+    "로그인/유료 영역(원티드·사람인 상세 본문 일부)은 무단 스크래핑하지 않고 공개 검색결과로 대체.",
+    "재현율 우선 원칙에 따라 신입 적합성이 애매한 공고(c08 스캐터랩, c09 카카오페이)도 사유와 함께 포함했으며, 명백히 마감/고경력 필수 공고는 excluded_examples로 분리. 적합/부적합 최종 판정은 평가자 단계의 몫."
+  ]
+}

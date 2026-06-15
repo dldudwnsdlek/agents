@@ -1,0 +1,166 @@
+{
+  "evaluated_at": "2026-06-15",
+  "summary": { "total": 9, "passed": 7, "dropped": 2 },
+  "passed": [
+    {
+      "id": "c01",
+      "company": "버즈빌(Buzzvil)",
+      "title": "[광고 추천팀] ML Engineer / 머신러닝 엔지니어 (신입 가능, 병역특례요원)",
+      "url": "https://buzzvil.career.greetinghr.com/o/112597",
+      "fit_score": 96,
+      "breakdown": { "role": 5, "level": 5, "stack": 5, "reality": 4 },
+      "verdict": "pass",
+      "reasons": [
+        "직무 핵심이 광고 추천(DSP) ML 모델링 — 지원자의 AutoInt(CTR, TensorFlow 커스텀 레이어 직접 구현)·NCF·LightGCN 추천 경험과 1:1로 정렬.",
+        "'논문을 읽고 실제로 구현 가능' 요건을 제1저자 2편(은상 1편)·AutoInt 직접 구현 이력으로 정면 충족. '학회/학술지 논문 발표' 우대가 한국디지털콘텐츠학회 은상과 부합.",
+        "필수 스택 TensorFlow/PyTorch·SQL·통계/확률 이론을 모두 보유. 우대(논문 발표·관련 학위)까지 충족.",
+        "제목에 '신입 가능' 명시 — 레벨 미스매치 없음."
+      ],
+      "concerns": [
+        "근무지 서울 송파(석촌호수)로 희망지역(분당/판교) 1순위는 아니나 수도권 충족이라 reality 4점.",
+        "'병역특례요원 가능'은 해당자에 한함 — 지원자 병역 상태는 (미확인), 정규직 일반 트랙 지원에는 영향 없음."
+      ]
+    },
+    {
+      "id": "c02",
+      "company": "카카오뱅크",
+      "title": "데이터 사이언티스트 (Data Science)",
+      "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/417274",
+      "fit_score": 88,
+      "breakdown": { "role": 5, "level": 4, "stack": 5, "reality": 4 },
+      "verdict": "pass",
+      "reasons": [
+        "금융 데이터로 예측·ML/DL 모델을 개발하는 핵심 DS 직무 — 지원자의 금융결제원 FDS(CatBoost F1 0.968)·앙상블 ML·예측모델 경험과 정렬.",
+        "'경력 1년 이상' 요건이 있으나 '1년 미만은 채용연계형 인턴으로 영입'이 공고에 명시 — 신입에게 명확한 진입 트랙이 존재해 hard-fail 아님.",
+        "필수 스택 Python·SQL·TensorFlow/PyTorch를 모두 보유. 시각화(Tableau 등)는 Streamlit 위주라 부분 충족이나 핵심 모델링 스택은 완전 일치.",
+        "근무지 분당 백현동 — 희망지역 1순위 충족."
+      ],
+      "concerns": [
+        "신입은 정규직이 아닌 채용연계형 인턴 트랙으로 시작 → 정규직 전환 조건 확인 필요. level 4점으로 감점.",
+        "데이터 시각화 도구(Tableau/imply) 직접 경험은 (미확인) — Streamlit 대시보드 경험으로 일부 대체 가능."
+      ]
+    },
+    {
+      "id": "c03",
+      "company": "카카오뱅크",
+      "title": "[Data] 데이터 사이언티스트 (금융분석 / FDS·AML)",
+      "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/263889",
+      "fit_score": 84,
+      "breakdown": { "role": 5, "level": 4, "stack": 4, "reality": 4 },
+      "verdict": "pass",
+      "reasons": [
+        "직무가 머신러닝 기반 이상거래탐지(FDS)·AML 모형 개발 — 지원자의 금융결제원 사기탐지(불균형 0.03% 해결, 파생 Feature 45개+, CatBoost F1 0.968) 프로젝트와 거의 완전 일치하는 최강점 직무.",
+        "필수 스택 Python·SQL·ML/통계 모델링을 모두 보유. FDS 도메인 실전 경험 보유로 직무 적합성 최상위.",
+        "근무지 분당 백현동 — 희망지역 1순위 충족."
+      ],
+      "concerns": [
+        "공고가 과거 동일 직무 기준이라 최신 요건·신입 가능 여부가 (미확인) — 채용페이지 재확인 필요. 신입 불가 명시가 발견되면 재판정 요함.",
+        "동일 회사 c02와 직무 인접 → 중복 지원 시 한쪽으로 정리 권장. AML/STR 규제 영역 실무 경험은 없음(FDS 모델링 경험으로 전이)."
+      ]
+    },
+    {
+      "id": "c04",
+      "company": "랩큐(LabQ)",
+      "title": "[정규직/계약직/인턴][신입/경력] AI 개발자 / ML 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=44243934",
+      "fit_score": 72,
+      "breakdown": { "role": 4, "level": 5, "stack": 4, "reality": 3 },
+      "verdict": "borderline",
+      "reasons": [
+        "'학력·경력 무관(신입 포함)' 명시 — 레벨 정합성 만점, 신입 진입에 장벽 없음.",
+        "AI/ML 연구개발·서비스 적용 직무로 지원자의 PyTorch/TensorFlow·LLM·앙상블 ML 폭넓은 스택과 부합.",
+        "서울 영등포 수도권 충족, 정규직 트랙 존재."
+      ],
+      "concerns": [
+        "상세 자격요건·도메인이 공고 본문 미공개로 (미확인) — 직무 적합성을 추천/FDS 강점과 정밀 매칭할 근거 부족해 role 4점.",
+        "급여 '면접 후 결정', 수습 3개월 등 처우 불확실. 회사 규모·도메인 불명확으로 reality 3점. borderline으로 통과시키되 본문 재확인 후 우선순위 판단 권장."
+      ]
+    },
+    {
+      "id": "c05",
+      "company": "토스(비바리퍼블리카)",
+      "title": "ML Engineer (추천) / Ads ML Engineer",
+      "url": "https://toss.im/career/job-detail?job_id=4553599003",
+      "fit_score": 82,
+      "breakdown": { "role": 5, "level": 4, "stack": 5, "reality": 3 },
+      "verdict": "pass",
+      "reasons": [
+        "추천/광고 ML 랭킹 모델을 만들어 서비스 성과에 직접 임팩트 — AutoInt(CTR)·NCF·LightGCN 추천 경험과 정확히 정렬.",
+        "필수 스택 Python·ML 프레임워크·추천/랭킹 모델링을 모두 보유. 시스템 설계 역량은 데모 수준(Streamlit)이나 모델링 핵심은 완전 일치.",
+        "과거 'Ads ML 신입 집중채용' 운영 이력이 있어 신입 지원 여지 존재."
+      ],
+      "concerns": [
+        "신입 집중채용 이벤트(2025-09~10)는 종료, 현재 상시 모집의 신입 가능 여부·시점이 (미확인) → 토스 채용페이지 재확인 필요. 경력 중심으로 운영되면 level 하향 가능. level 4점.",
+        "근무지 서울 강남 역삼 — 수도권 충족이나 분당/판교 1순위는 아님. reality 3점."
+      ]
+    },
+    {
+      "id": "c06",
+      "company": "라피치(Raviche)",
+      "title": "[AI 음성기술 전문기업] STT 및 자연어 처리 엔지니어 (신입/경력)",
+      "url": "https://www.rallit.com/positions/1636/ai%EC%9D%8C%EC%84%B1%EA%B8%B0%EC%88%A0%EC%A0%84%EB%AC%B8%EA%B8%B0%EC%97%85-stt-%EB%B0%8F-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%8B%A0%EC%9E%85-%EA%B2%BD%EB%A0%A5",
+      "fit_score": 64,
+      "breakdown": { "role": 3, "level": 5, "stack": 3, "reality": 3 },
+      "verdict": "borderline",
+      "reasons": [
+        "제목에 '신입' 명시 — 레벨 정합성 만점, 신입 지원 가능.",
+        "NLP 지식 요건을 지원자의 DistilBERT 하이브리드 추천·감정분류(Amazon 리뷰 791만 건)·HuggingFace Transformers·RAG 경험으로 부분 충족.",
+        "서울 강남 수도권 충족."
+      ],
+      "concerns": [
+        "직무 핵심이 STT(음성인식) — 지원자는 텍스트 NLP/추천 중심이고 음성/오디오(ASR) 경험은 없음. 도메인 인접하나 핵심 적합성 낮아 role 3점.",
+        "필수 NLP 외 우대요건(국문학 전공·Linux)도 지원자 프로필과 거리. 강점(추천/FDS) 활용도가 낮아 borderline. 지원자 선호 도메인(추천/금융)과도 어긋남."
+      ]
+    },
+    {
+      "id": "c07",
+      "company": "마키나락스(MakinaRocks)",
+      "title": "[신입/인턴] 머신러닝 엔지니어 (LLM)",
+      "url": "https://makinarocks.career.greetinghr.com/ko/o/157208",
+      "fit_score": 82,
+      "breakdown": { "role": 5, "level": 5, "stack": 4, "reality": 3 },
+      "verdict": "pass",
+      "reasons": [
+        "제목에 '신입/인턴' 명시 — 레벨 정합성 만점, 명확한 신입 트랙.",
+        "LLM ML 엔지니어 직무가 지원자의 EXAONE-4.0-1.2B GPTQ(W4A16) 경량화·llmcompressor 파이프라인·LangChain/ChromaDB RAG 경험과 정면 정렬.",
+        "필수 스택 Python·딥러닝 프레임워크·LLM 개발 보유. 산업 AI 도메인은 신규이나 LLM 기술 스택 일치도 높음."
+      ],
+      "concerns": [
+        "3개월 인턴십 후 정규직 전환 '검토' — 전환 보장 아님. 정규직 우선 선호 대비 진입 형태 불확실.",
+        "근무지·마감·상세요건이 봇 차단으로 (미확인) → 채용페이지 재확인 필요. 본사 서울 강남 가정 시 수도권 충족이나 미확정으로 reality 3점."
+      ]
+    }
+  ],
+  "dropped": [
+    {
+      "id": "c08",
+      "company": "스캐터랩(ScatterLab)",
+      "title": "[이루다] 머신러닝 엔지니어",
+      "url": "https://www.rallit.com/positions/42/%EC%9D%B4%EB%A3%A8%EB%8B%A4-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4",
+      "fit_score": 58,
+      "breakdown": { "role": 4, "level": 2, "stack": 3, "reality": 4 },
+      "verdict": "fail",
+      "reasons": [
+        "직무는 대화형 AI(이루다) ML 엔지니어로 PyTorch/TF·논문 구현 요건은 지원자의 AutoInt 구현·LLM 경량화 경험과 일부 부합(role 4점).",
+        "그러나 우대요건이 엄격한 테스트 코드·ML 파이프라인(Airflow/Kubeflow)·저지연 ML API·멀티노드 GPU/TPU 대형모델 학습·Docker/K8s·클라우드 등 MLOps/엔지니어링 중심 — 지원자는 모델링/연구 중심이고 프로덕션 인프라(K8s/Airflow/멀티노드 학습) 경험은 없어 stack 3점.",
+        "신입 가능 명시가 없고 경력 톤의 공고 — OS/Network CS 기본기·테스트 코드 등 시니어 엔지니어링 기대치가 높아 신입 정합성 낮음(level 2점).",
+        "환산 58점으로 60점 미만 → fail. 근무지(서울 성동)는 수도권 충족이나 직무 레벨/엔지니어링 스택 미스매치가 결정적. 신입 가능 여부 확인 시 재검토 가능하나 현 근거로는 보수적 탈락."
+      ]
+    },
+    {
+      "id": "c09",
+      "company": "카카오페이",
+      "title": "추천시스템 엔지니어 (머신러닝 엔지니어)",
+      "url": "https://www.wanted.co.kr/wd/109815",
+      "fit_score": 30,
+      "breakdown": { "role": 5, "level": 0, "stack": 5, "reality": 4 },
+      "verdict": "fail",
+      "reasons": [
+        "HARD-FAIL: 공고에 '경력 3-10년' 명시 — 지원자는 신입(졸업예정)이라 최소 3년 요건을 충족 불가. PORTFOLIO 제외조건('경력 N년 필수(신입 불가)')에 정면으로 해당하므로 환산점과 무관하게 탈락.",
+        "직무 적합성 자체는 최상(판교 핀테크 추천/랭킹 ML로 LightGCN/AutoInt/NCF 추천 강점과 정확히 일치)이고 스택(Python·TF/PyTorch·추천 논문 구현)도 완전 일치하나, 연차 게이트를 통과하지 못해 무의미.",
+        "신입에게 별도 진입 트랙(인턴/신입 전형)이 공고에 없음 — c02 카카오뱅크처럼 '경력 미만은 인턴' 같은 우회로가 없어 hard-fail 확정.",
+        "참고: 3년 이상 경력을 쌓은 뒤 재지원 시 적합도 최상위 후보. 현 시점에서는 지원 불가."
+      ]
+    }
+  ]
+}
